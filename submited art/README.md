@@ -1,5 +1,5 @@
 # Haia and welcome to the `submited art/` file.
-## There are 3 folders each named "Large", "Medium", and "Small".
+## Just like in the main archive there are 3 folders each named "Large", "Medium", and "Small".
 The smaller the art = the less servers is required for the art to be created.
 
 Smaller ones will almost always require only one Discord server to create. Please submit to the correct file.
