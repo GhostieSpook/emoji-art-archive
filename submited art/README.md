@@ -1,4 +1,4 @@
-# Haia and welcome to the `submited art/` file.
+# Hai and welcome to the `submited art/` file.
 ## Just like in the main archive there are 3 folders each named "Large", "Medium", and "Small".
 The smaller the art = the less servers is required for the art to be created.
 
